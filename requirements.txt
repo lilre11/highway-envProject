@@ -1,6 +1,6 @@
 # Highway-Env RL Project - Requirements
 
-# Core Dependencies
+# Core RL Dependencies
 gymnasium>=0.29.0
 highway-env>=1.8.0
 stable-baselines3>=2.0.0
@@ -11,16 +11,15 @@ torch>=2.0.0
 # Logging & Monitoring
 tensorboard>=2.14.0
 tqdm>=4.65.0
-rich>=13.0.0
 
-# Video Recording
+# Video Recording & Visualization
 imageio>=2.31.0
 imageio-ffmpeg>=0.4.9
 Pillow>=10.0.0
-
-# Utilities
-numpy>=1.24.0
 matplotlib>=3.7.0
 
-# Optional: For better video encoding
+# Numerical Computing
+numpy>=1.24.0
+
+# Optional: For enhanced video encoding
 opencv-python>=4.8.0

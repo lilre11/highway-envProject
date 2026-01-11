@@ -1,6 +1,8 @@
+Emre Yılmaz 2104170 Intro to AI Project
+
 # Highway-Env Autonomous Driving with Deep Reinforcement Learning
 
-**Final Year Capstone Project | Computer Engineering**
+
 
 **Author**: Emre Y.  
 **Date**: January 2026  
